@@ -8,12 +8,18 @@ NTSL é a linguagem de programação utilizada pela plataforma Profit Pro (Nelog
 
 ## Documentação
 
-Para obter o manual completo do NTSL:
+Para obter o manual completo do NTSL, use o script de download:
+
+```bash
+python3 download_manual_v2.py
+```
+
+Ou baixe manualmente:
 
 1. **Manual Oficial PDF**: [ManualNTSL.pdf](https://downloadserver-cdn.nelogica.com.br/content/profit/manual_ntsl/ManualNTSL.pdf)
 2. **Documentação Online**: [Ajuda Nelogica - NTSL](https://ajuda.nelogica.com.br/hc/pt-br/articles/360046443212)
 
-Após baixar o manual, adicione-o na pasta `docs/` deste repositório.
+O manual será salvo em `docs/ManualNTSL.pdf`
 
 ## Estrutura do Projeto
 
